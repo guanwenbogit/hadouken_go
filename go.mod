@@ -1,1 +1,1 @@
-module hadouken_go
+module hadouken

@@ -1,4 +1,4 @@
-package hadouken_go
+package hadouken
 
 import "fmt"
 
